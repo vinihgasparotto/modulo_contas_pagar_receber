@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:postgres@192.168.100.180:5432/billdb'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
